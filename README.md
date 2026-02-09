@@ -41,7 +41,7 @@ Ensure:
 
 ## 📂 Repository Structure
 
-´´´
+```
 ├── data/ # Local raw CSV samples
 ├── sql/
 │ ├── 01_create_tables.sql
@@ -51,5 +51,5 @@ Ensure:
 │ └── aws_athena_kpi.png
 ├── README.md
 └── .gitignore
-´´´
+```
 
